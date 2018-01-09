@@ -42,6 +42,7 @@
 
 // modify by robert 20180109
 // bitconid 核心代码
+// modify from mac test
 
 void WaitForShutdown(boost::thread_group* threadGroup)
 {
